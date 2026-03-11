@@ -27,7 +27,7 @@ Topics covered:
 
 **Presentation**
 
-[Link to Day 1 Presentation](https://docs.google.com/presentation/d/16_l9QYEGlca8Jw1Y2ubqj5Qum7_CZJmz/edit?usp=sharing&ouid=108717541017706732541&rtpof=true&sd=true)
+[Link to Day 1 Presentation](https://docs.google.com/presentation/d/1hYQoOJBxLB34btGWkuSAqpXJ2P3_6q7_/edit?usp=sharing&ouid=108717541017706732541&rtpof=true&sd=true)
 
 ---
 
