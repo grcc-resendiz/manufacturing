@@ -29,6 +29,19 @@ Topics covered:
 
 [Link to Day 1 Presentation](https://docs.google.com/presentation/d/1hYQoOJBxLB34btGWkuSAqpXJ2P3_6q7_/edit?usp=sharing&ouid=108717541017706732541&rtpof=true&sd=true)
 
+# Predictive Maintenance ML Demo
+
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/grcc-resendiz/kaggle-example)
+
+
+This notebook demonstrates predictive maintenance for milling machines using machine learning.
+
+## Run the Demo
+
+1. Click **Open in Codespaces**
+2. Wait for the environment to load
+3. Open the notebook
+4. Click **Run All**
 ---
 
 ## Day 2 – Computer Vision for Defect Detection
