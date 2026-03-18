@@ -56,7 +56,7 @@ Topics covered:
 
 **Presentation**
 
-[Link to Day 2 Presentation](#)
+[Link to Day 2 Presentation](https://docs.google.com/presentation/d/1boNxrZHk728uKon9R4qgRpl1OKXCNISV/edit?usp=sharing&ouid=108717541017706732541&rtpof=true&sd=true)
 
 ---
 
