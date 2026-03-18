@@ -58,6 +58,11 @@ Topics covered:
 
 [Link to Day 2 Presentation](https://docs.google.com/presentation/d/1boNxrZHk728uKon9R4qgRpl1OKXCNISV/edit?usp=sharing&ouid=108717541017706732541&rtpof=true&sd=true)
 
+# Computer Vision Demo
+**Theme:** Use the following to run your Tensorflow model
+
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/grcc-resendiz/teachable-machine-demo)
+
 ---
 
 ## Day 3 – Predictive Maintenance with Machine Learning
