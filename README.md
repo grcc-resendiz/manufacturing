@@ -65,19 +65,40 @@ Topics covered:
 
 ---
 
-## Day 3 – Predictive Maintenance with Machine Learning
-**Theme:** Using data to predict equipment failures and maintenance needs
+## Day 3 – Prompt Engineering & Custom Chatbots
+
+**Theme**: Mastering LLM interactions and building tailored AI assistants for manufacturing 
 
 Topics covered:
 
-- Predictive maintenance concepts and benefits  
-- Understanding manufacturing maintenance data  
-- Hands-on: **deep dive into predictive modeling using Orange Data Mining**  
-- Interpreting model results and applying predictions to maintenance decisions  
+Effective prompting strategies for LLMs like ChatGPT and Gemini 
+
+- Introduction to the RTFC Framework (Role, Task, Format, Constraints) 
+- Identifying and preventing AI hallucinations in technical environments 
+- Benefits of Custom Chatbots (Gems/GPTs) for repetitive workplace tasks 
+- Hands-on: Building a Custom Gem for SOPs, troubleshooting, or reporting 
 
 **Presentation**
 
-[Link to Day 3 Presentation](#)
+[Link to Day 3 Presentation](https://docs.google.com/presentation/d/1b3xbVW82UGkS2RanBcqFaUjxdocsaCW5/edit?usp=drive_link&ouid=116979576458868389132&rtpof=true&sd=true)
+
+# Custom Gem Workshop
+
+**Theme**: Customize a chatbot to remember key information and documents 
+
+1. Participant Workbook
+[Access the Day 3 Workbook](https://docs.google.com/document/d/1LVCzKPxFjhXO0Dm372fXp9H0M8xEOp1Mbz0Kpkjs0PE/edit?usp=sharing)
+
+2. Demo Reference Material
+We will use the following technical manual to provide context for a custom Gem:
+[Bridgeport Knee Mill Technical Manual](https://bridgeportmachinetools.com/wp-content/uploads/KneeMill-Complete-Manual.pdf?utm_source=chatgpt.com)
+
+3. Microsoft Copilot Alternative
+For participants using a Microsoft 365 Copilot license, this video explains how to create the equivalent of Gems:
+[Creating Custom Copilots Guide](https://www.youtube.com/watch?v=9_Dw9qcjLgA)
+
+Additional Learning Resources
+[Intro to AI Playlist](https://www.youtube.com/playlist?list=PLRPndqjs_4_3CKi4lRWRwQ55oBh4lXqIU)
 
 ---
 
