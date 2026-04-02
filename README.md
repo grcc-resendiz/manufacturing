@@ -108,13 +108,12 @@ Additional Learning Resources
 Topics covered:
 
 - Moving from prototype AI models to production systems  
-- Infrastructure considerations: edge vs cloud  
 - Workforce readiness and change management  
 - Implementation planning workshop and next steps  
 
 **Presentation**
 
-[Link to Day 4 Presentation](#)
+[Link to Day 4 Presentation](https://docs.google.com/presentation/d/1C6X0pzSa6YDPGrPi55MkFDkDR1V5sUcT/edit?usp=sharing&ouid=108717541017706732541&rtpof=true&sd=true)
 
 ---
 
