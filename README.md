@@ -115,6 +115,7 @@ Topics covered:
 
 [Link to Day 4 Presentation](https://docs.google.com/presentation/d/1PO0exzmyFTXN_uWysV243TYxZ1COJzRU/edit?usp=sharing&ouid=108717541017706732541&rtpof=true&sd=true)
 
+[Link to Agentic AI NotebookLM](https://notebooklm.google.com/notebook/6f5fc899-d689-4c31-aeac-1c9c11ddd671)
 ---
 
 # Tools Used in the Workshop
